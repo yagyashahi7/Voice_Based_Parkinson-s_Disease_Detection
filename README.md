@@ -1,4 +1,5 @@
-# Voice Based Parkinson's Disease Detection using SVM
+# Voice-Based Machine Learning Model for Early Diagnosis of   Parkinson’s Disease.
+
 
 This project implements a step-by-step machine learning pipeline to detect Parkinson’s Disease using biomedical voice measurements. The model is trained using a Support Vector Machine (SVM) classifier and visualizes results with various plots.
 
@@ -41,3 +42,4 @@ This notebook includes:
 ├── README.md<br>
 ├── requirements.txt<br>
 ├── full_code.py<br>
+├── voice_based_parkinson's_disease_detection<br>
