@@ -35,8 +35,8 @@ This notebook includes:
 
 ## 📁 Project Structure
 
-├── Dataset/
-│ └── dataset.csv
+├── Dataset/<br>
+│ └── dataset.csv<br>
 ├── step_by_step_code.ipynb<br>
 ├── README.md<br>
 ├── requirements.txt<br>
