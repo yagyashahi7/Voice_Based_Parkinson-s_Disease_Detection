@@ -6,7 +6,7 @@ This project implements a step-by-step machine learning pipeline to detect Parki
 
 - Model: **SVM with linear kernel**
 - Dataset: Biomedical voice measurements from people with and without Parkinson’s Disease
-- Features: 24 voice measurements
+- Features: 24 voice measurements parameters
 - Target: `status` (1 = Parkinson’s, 0 = Healthy)
 
 ## 📄 Main Code
@@ -40,3 +40,4 @@ Testing Accuracy: 0.8717948717948718
 ├── step_by_step_code.ipynb
 ├── README.md
 ├── requirements.txt
+├── full_code.py
