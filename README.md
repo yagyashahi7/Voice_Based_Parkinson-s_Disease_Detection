@@ -22,8 +22,8 @@ This notebook includes:
 
 ## With the Accuracy of:
 
--Training Accuracy: 0.8846153846153846
-Testing Accuracy: 0.8717948717948718
+-Training Accuracy: 0.8846153846153846 <br>
+-Testing Accuracy: 0.8717948717948718<br>
 
 ## 📊 Visualizations
 
@@ -37,7 +37,7 @@ Testing Accuracy: 0.8717948717948718
 
 ├── Dataset/
 │ └── dataset.csv
-├── step_by_step_code.ipynb
-├── README.md
-├── requirements.txt
-├── full_code.py
+├── step_by_step_code.ipynb<br>
+├── README.md<br>
+├── requirements.txt<br>
+├── full_code.py<br>
