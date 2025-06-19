@@ -42,4 +42,4 @@ This notebook includes:
 ├── README.md<br>
 ├── requirements.txt<br>
 ├── full_code.py<br>
-├── voice_based_parkinson's_disease_detection<br>
+├── voice_based_parkinson's_disease_detection.pdf<br>
